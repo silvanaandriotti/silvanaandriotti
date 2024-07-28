@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Silvana Dias Andriotti! 👋
 
-- 📫 **Contato**: silvanaandriotti@gmail.com / WhatsApp profissional: (53) 98129-6084
+- 📫 **Contato** - silvanaandriotti@gmail.com / WhatsApp profissional: (53) 98129-6084
 
 - 🎮 **Hobbies** - Gosto de fazer cursos e trabalhar em projetos pessoais na área de desenvolvimento, assistir esportes na TV e jogar LOL.
 
@@ -8,11 +8,11 @@
 
 - 👩‍💻 **Experiências profissionais** - Já atuei como redatora, customer success, **Scrum Master** e atualmente sou **gerente de operações** em uma agência de marketing de São Paulo.
 
-- 💻 **Linguagens** que estou estudando atualmente - HTML, CSS e JavaScript pela Growdev.
+- 💻 **Linguagens que estou estudando atualmente** - HTML, CSS e JavaScript pela Growdev.
 
 - 💬 **Linguagem de Programação favorita** - Estou gostando de aprender mais sobre **JavaScript**.
 
-- ⚡ **Fun fact**: Atuo na modalidade remota há 5 anos mas consigo me adaptar bem ao modelo presencial ou híbrido.
+- ⚡ **Fun fact** - Atuo na modalidade remota há 5 anos mas consigo me adaptar bem ao modelo presencial ou híbrido.
 
 <br>
 

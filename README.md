@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Silvana Dias Andriotti! 👋
 
-- 📫 **E-mail**: silvanaandriotti@gmail.com / WhatsApp profissional: (53) 98129-6084
+- 📫 **Contato**: silvanaandriotti@gmail.com / WhatsApp profissional: (53) 98129-6084
 
 - 🎮 **Hobbies** - Gosto de fazer cursos e trabalhar em projetos pessoais na área de desenvolvimento, assistir esportes na TV e jogar LOL.
 

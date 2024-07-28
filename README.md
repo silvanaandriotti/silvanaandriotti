@@ -6,9 +6,9 @@
 
 - 👩‍🎓 **Formação** - Sou graduada em Direito com aprovação na OAB. Fiz o curso de Programador Web no IFSUL e atualmente curso o **Programa de Formação em Desenvolvimento Web Full Stack na Growdev**.
 
-- 👩‍💻 **Experiências profissionais - Já atuei como redatora, customer success, **Scrum Master** e atualmente sou **gerente de operações** em uma agência de marketing de São Paulo.
+- 👩‍💻 **Experiências profissionais** - Já atuei como redatora, customer success, **Scrum Master** e atualmente sou **gerente de operações** em uma agência de marketing de São Paulo.
 
-- 💻 **Linguagens** que está estudando atualmente - HTML, CSS e JavaScript pela Growdev.
+- 💻 **Linguagens** que estou estudando atualmente - HTML, CSS e JavaScript pela Growdev.
 
 - 💬 **Linguagem de Programação favorita** - Estou gostando de aprender mais sobre **JavaScript**.
 
